@@ -1,5 +1,8 @@
 _repo: The-Four-Fingered-Glove-Or-The-Cost-of-a-Lie_66724
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66724-h/images/cover.jpg
 creator:
   author:
     agent_name: Carter, Nicholas (House name)
@@ -11,6 +14,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/2983
     - http://www.gutenberg.org/ebooks/author/1599
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66724#The-Four-Fingered-Glove-Or-The-Cost-of-a-Lie
 gutenberg_issued: '2021-11-13'
 identifiers:
   gutenberg: '66724'
